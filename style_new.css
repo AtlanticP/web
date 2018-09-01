@@ -1,0 +1,18 @@
+body {
+  background-color: #91c7c7;
+}
+
+div#box {
+  position: relative;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  opacity: 0.4;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+/*  opacity: 0.4; */
+}
+
