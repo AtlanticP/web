@@ -3,5 +3,5 @@ $('div#box').on('mouseenter', function() {
 });
 
 $('div#box').on('mouseleave', function() {
-  $(this).animate({'opacity': '0.7'}, 100);
+  $(this).animate({'opacity': '0.8'}, 100);
 });
